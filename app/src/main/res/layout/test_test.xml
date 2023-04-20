@@ -34,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="@dimen/text_large"
-        android:typeface="serif"
+        android:singleLine="true"
         android:text="@string/text5"
         />
 
